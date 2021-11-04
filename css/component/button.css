@@ -1,0 +1,39 @@
+.m-btn{
+    background-color: #019160;
+    border-radius: 4px;
+    height: 40px;
+    font-size: 13px;
+    color: #ffff;
+    font-weight: normal;
+    padding-left: 24px;
+    padding-right:24px;
+    outline: unset;
+    min-width: 100px;
+    /* text-align: center; */
+    border: none;
+    cursor: pointer;
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+}
+
+.m-btn:hover{
+    background-color: #2fBE8E;
+}
+.m-btn:active{
+    background-color:#01B075;
+}
+
+/* Button icon */
+.m-btn .m-btn-icon{
+    width: 16px;
+    height: 16px;
+    /* background-color: red; */
+    margin-left: -8px;
+    margin-right: 8px;
+}
+
+/* Button text */
+.m-btn .m-btn-text{
+    margin-right: -8px;
+}

@@ -1,0 +1,11 @@
+.m-row{
+    display: block;
+    width: 100%;
+}
+
+.m-row>label{
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-weight: 700;
+} 

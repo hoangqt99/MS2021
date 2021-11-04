@@ -1,0 +1,24 @@
+@import url('./common/common.css');
+@import url('./component/button.css');
+@import url('./component/input.css');
+@import url('./component/icon.css');
+@import url('./component/combobox.css');
+@import url('./component/table.css');
+body{
+    font-family: GoogleSans;
+    font-size: 13px;
+}
+@font-face {
+    font-family: GoogleSans;
+    src: url('../content/font/GoogleSans-Regular.otf');
+}
+
+@font-face {
+    font-family: GoogleSans-Bold;
+    src: url('../content/font/GoogleSans-Bold.otf');
+}
+
+@font-face {
+    font-family: GoogleSans-Italic;
+    src: url('../content/font/GoogleSans-Italic.otf');
+}
